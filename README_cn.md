@@ -1,5 +1,9 @@
 # rppg_runtime
 
+> **注意**：由于 GitHub 上传大小限制，本仓库仅包含核心代码文件。完整工程（含虚拟环境、预训练模型等）请前往百度网盘获取：
+> - **链接**：[https://pan.baidu.com/s/1sGSuxOXjw0kl4_S2i-_v3A?pwd=hwm1]
+> - **提取码**：`hwm1`
+
 基于摄像头视频流的实时非接触式心率（rPPG）检测系统，运行于 ** RDK X5** 嵌入式开发板，配套 PC 端 BLE 参考心率桥接工具。系统通过远程光电容积脉搏波描记法（Remote Photoplethysmography, rPPG）检测面部皮肤因血流引起的微小颜色变化，实时估算心率（BPM），并支持中文语音合成播报。
 
 ---

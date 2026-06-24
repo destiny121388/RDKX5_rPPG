@@ -1,5 +1,9 @@
 # rppg_runtime
 
+> **Note**: Due to GitHub upload size limitations, this repository only contains the core code files. For the complete project (including virtual environment, pre-trained models, etc.), please download from Baidu Netdisk:
+> - **Link**: [https://pan.baidu.com/s/1sGSuxOXjw0kl4_S2i-_v3A?pwd=hwm1]
+> - **Password**: `hwm1`
+
 Real-time contactless heart rate (rPPG) detection system based on camera video streams, running on the **RDK X5** embedded development board, with a companion PC-side BLE reference heart rate bridge. The system detects subtle color changes on facial skin caused by blood flow using Remote Photoplethysmography (rPPG), estimates heart rate (BPM) in real time, and supports Chinese text-to-speech (TTS) broadcast.
 
 ---
